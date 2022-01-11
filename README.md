@@ -1,2 +1,2 @@
 # TodoList
-## From Dicoding Indonesia's Courses
+Make a list for you productivity
